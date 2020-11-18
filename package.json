@@ -2,7 +2,7 @@
   "name": "build",
   "version": "1.0.0",
   "description": "",
-  "main": "precache-manifest.fc699a174a73d2b73138d3da677cc805.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
